@@ -1,0 +1,6 @@
+data/raw/
+.mplconfig/
+__pycache__/
+.ipynb_checkpoints/
+reports/consistency_flags.csv
+reports/year_by_intended_certificate.csv

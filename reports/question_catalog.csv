@@ -1,0 +1,33 @@
+﻿question,title,type,answered,missing
+1,Câu 1. Giới tính của bạn là gì?,single,89,0
+2,Câu 2. Bạn đang là sinh viên năm mấy?,single,89,0
+3,Câu 3. Bạn đang học khoa nào?,single,89,0
+4,Câu 4. Bạn đánh giá trình độ tiếng Anh của mình ở mức nào?,single,89,0
+5,Câu 5. Bạn đã từng ôn thi hoặc thi chứng chỉ tiếng Anh chưa?,single,89,0
+6,Câu 6. Bạn đã từng thi chứng chỉ tiếng Anh nào? (Có thể chọn nhiều đáp án),multiple,89,0
+7,Câu 7. Bạn dự định thi chứng chỉ nào trong thời gian tới?,single,89,0
+8,Câu 8. Bạn muốn thi chứng chỉ tiếng Anh để làm gì? (Có thể chọn nhiều đáp án),multiple,89,0
+9,Câu 9. Bạn dự định thi chứng chỉ khi nào?,single,89,0
+10,Câu 10. Bạn tìm thông tin về chứng chỉ từ đâu? (Có thể chọn nhiều đáp án),multiple,89,0
+11,Yếu tố cá nhân [11. Mục tiêu nghề nghiệp],likert,89,0
+12,Yếu tố cá nhân [12. Nhu cầu sử dụng tiếng Anh],likert,89,0
+13,Yếu tố cá nhân [13. Sự phù hợp của bài thi với trình độ tiếng Anh của bạn],likert,89,0
+14,Đặc điểm của chứng chỉ [14. Độ khó của bài thi],likert,89,0
+15,Đặc điểm của chứng chỉ [15. Các kỹ năng và dạng câu hỏi trong bài thi],likert,89,0
+16,Đặc điểm của chứng chỉ [16. Thời lượng bài thi và lịch thi],likert,89,0
+17,Đặc điểm của chứng chỉ [17. Khả năng đạt điểm mong muốn],likert,89,0
+18,Chi phí [18. Lệ phí thi],likert,89,0
+19,Chi phí [19. Chi phí luyện thi],likert,89,0
+20,Chi phí [20. Khả năng tài chính của bản thân hoặc gia đình],likert,89,0
+21,Ý kiến và thông tin từ người khác [21. Sự giới thiệu của bạn bè],likert,89,0
+22,Ý kiến và thông tin từ người khác [22. Ý kiến của giảng viên],likert,89,0
+23,Ý kiến và thông tin từ người khác [23. Thông tin trên mạng xã hội],likert,89,0
+24,Ý kiến và thông tin từ người khác [24. Tư vấn từ trung tâm ngoại ngữ],likert,89,0
+25,Yếu tố từ nhà trường [25. Yêu cầu chuẩn đầu ra tiếng Anh],likert,89,0
+26,Yếu tố từ nhà trường [26. Thông tin và tư vấn từ nhà trường],likert,89,0
+27,Yếu tố từ nhà trường [27. Việc chứng chỉ được nhà trường công nhận],likert,89,0
+28,Câu 28. Chứng chỉ bạn đã chọn hoặc dự định thi phù hợp với bạn ở mức nào?,single,89,0
+29,Câu 29. Bạn có muốn giới thiệu chứng chỉ này cho sinh viên khác không?,single,89,0
+30,Câu 30. Bạn gặp khó khăn gì khi chọn chứng chỉ? (Có thể chọn nhiều đáp án),multiple,89,0
+31,Câu 31. Bạn muốn nhà trường cung cấp thông tin gì? (Có thể chọn nhiều đáp án),multiple,89,0
+32,Câu 32. Bạn có góp ý gì để giúp sinh viên chọn chứng chỉ phù hợp?,text,51,38

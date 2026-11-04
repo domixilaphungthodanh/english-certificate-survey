@@ -1,0 +1,138 @@
+[
+  {
+    "check": "Q1_counts",
+    "pass": true
+  },
+  {
+    "check": "Q2_counts",
+    "pass": true
+  },
+  {
+    "check": "Q3_counts",
+    "pass": true
+  },
+  {
+    "check": "Q4_counts",
+    "pass": true
+  },
+  {
+    "check": "Q5_counts",
+    "pass": true
+  },
+  {
+    "check": "Q6_counts",
+    "pass": true
+  },
+  {
+    "check": "Q7_counts",
+    "pass": true
+  },
+  {
+    "check": "Q8_counts",
+    "pass": true
+  },
+  {
+    "check": "Q9_counts",
+    "pass": true
+  },
+  {
+    "check": "Q10_counts",
+    "pass": true
+  },
+  {
+    "check": "Q11_counts",
+    "pass": true
+  },
+  {
+    "check": "Q12_counts",
+    "pass": true
+  },
+  {
+    "check": "Q13_counts",
+    "pass": true
+  },
+  {
+    "check": "Q14_counts",
+    "pass": true
+  },
+  {
+    "check": "Q15_counts",
+    "pass": true
+  },
+  {
+    "check": "Q16_counts",
+    "pass": true
+  },
+  {
+    "check": "Q17_counts",
+    "pass": true
+  },
+  {
+    "check": "Q18_counts",
+    "pass": true
+  },
+  {
+    "check": "Q19_counts",
+    "pass": true
+  },
+  {
+    "check": "Q20_counts",
+    "pass": true
+  },
+  {
+    "check": "Q21_counts",
+    "pass": true
+  },
+  {
+    "check": "Q22_counts",
+    "pass": true
+  },
+  {
+    "check": "Q23_counts",
+    "pass": true
+  },
+  {
+    "check": "Q24_counts",
+    "pass": true
+  },
+  {
+    "check": "Q25_counts",
+    "pass": true
+  },
+  {
+    "check": "Q26_counts",
+    "pass": true
+  },
+  {
+    "check": "Q27_counts",
+    "pass": true
+  },
+  {
+    "check": "Q28_counts",
+    "pass": true
+  },
+  {
+    "check": "Q29_counts",
+    "pass": true
+  },
+  {
+    "check": "Q30_counts",
+    "pass": true
+  },
+  {
+    "check": "Q31_counts",
+    "pass": true
+  },
+  {
+    "check": "89_source_responses",
+    "pass": true
+  },
+  {
+    "check": "32_questions",
+    "pass": true
+  },
+  {
+    "check": "17_likert_items",
+    "pass": true
+  }
+]
